@@ -1,6 +1,6 @@
-customhost = "employee.coghw13fheqo.ap-south-1c.rds.amazonaws.com"
+customhost = "project1.c7c28us4av6o.ap-south-1.rds.amazonaws.com"
 customuser = "jishnu"
 custompass = "9494757795"
 customdb = "employee"
 custombucket = "rdsbucketjishnu"
-customregion = "ap-south-1c"
+customregion = "ap-south-1"
